@@ -6,7 +6,7 @@ permalink: /privacy
 
 # PlumFM Privacy Policy
 
-**Last updated: September 14, 2026**
+**Last updated: September 20, 2026**
 
 PlumFM is a Last.fm client for iPhone. It has no servers, no accounts of its own, no analytics,
 no ads and no tracking. Your data lives in two places: your Last.fm account and your iPhone.
@@ -67,11 +67,16 @@ To stop PlumFM from accessing your Last.fm account, revoke it in your
 [Last.fm settings](https://www.last.fm/settings/applications). Data in your Last.fm account
 itself, like your scrobbles and loved tracks, is managed on Last.fm.
 
-## TestFlight
+## TestFlight and the App Store
 
 If you test PlumFM through TestFlight, Apple may share crash reports and any feedback you send
-with the developer. That's handled by Apple under
-[Apple's privacy policy](https://www.apple.com/legal/privacy/).
+with the developer.
+
+If you install PlumFM from the App Store, Apple gives the developer reports about the app as a
+whole, such as how many people downloaded it, and — when you've allowed it on your device — crash
+reports. That comes from Apple, not from PlumFM, and is handled under
+[Apple's privacy policy](https://www.apple.com/legal/privacy/). PlumFM itself still collects
+nothing.
 
 ## Changes
 
