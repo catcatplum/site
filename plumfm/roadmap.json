@@ -1,0 +1,23 @@
+{
+  "items": [
+    { "title": "More accurate Apple Music scrobbling", "status": "in-beta" },
+    { "title": "Light, Dark and System appearance", "status": "in-beta" },
+    { "title": "Last.fm profile picture on the account button", "status": "planned" },
+    { "title": "Home Screen and Lock Screen widgets", "status": "planned" },
+    { "title": "Open in Apple Music or Spotify", "status": "planned" },
+    { "title": "Translations", "status": "planned" },
+    {
+      "title": "Automatic Apple Music scrobbling",
+      "status": "exploring",
+      "detail": "Depends on scrobble times being reliable first. A wrong scrobble is worse than a missing one."
+    },
+    { "title": "Choose the starting tab", "status": "exploring" },
+    { "title": "Background history sync", "status": "exploring" },
+    {
+      "title": "Minutes listened and genre breakdowns",
+      "status": "exploring",
+      "detail": "Last.fm doesn't know every track's length or genre, and a wrong number is worse than none."
+    },
+    { "title": "Taste compatibility with other Last.fm users", "status": "exploring" }
+  ]
+}

@@ -6,7 +6,7 @@ permalink: /privacy
 
 # PlumFM Privacy Policy
 
-**Last updated: September 20, 2026**
+**Last updated: September 25, 2026**
 
 PlumFM is a Last.fm client for iPhone. It has no servers, no accounts of its own, no analytics,
 no ads and no tracking. Your data lives in two places: your Last.fm account and your iPhone.
@@ -33,6 +33,11 @@ Last.fm handles that data under its own [privacy policy](https://www.last.fm/leg
 **Deezer.** To show artist photos, PlumFM sends artist names to Deezer's public API and loads
 the photos Deezer returns. No account or personal information is involved. Deezer's
 [privacy policy](https://www.deezer.com/legal/personal-datas) applies.
+
+**catcatplum.com.** PlumFM loads its roadmap from catcatplum.com, which is hosted on GitHub
+Pages. Nothing about you is sent. GitHub's
+[privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+applies.
 
 Like any app on the internet, these services can see your IP address. Every request also
 identifies the app as PlumFM, with its version number.
@@ -77,6 +82,12 @@ whole, such as how many people downloaded it, and — when you've allowed it on 
 reports. That comes from Apple, not from PlumFM, and is handled under
 [Apple's privacy policy](https://www.apple.com/legal/privacy/). PlumFM itself still collects
 nothing.
+
+## Feedback by email
+
+If you use Send Feedback, your email app sends a message to hello@catcatplum.com with the PlumFM
+and iOS versions filled in. What you write, and your email address, are used only to read and
+reply to your message.
 
 ## Changes
 
