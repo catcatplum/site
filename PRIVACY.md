@@ -6,7 +6,7 @@ permalink: /privacy
 
 # PlumFM Privacy Policy
 
-**Last updated: September 25, 2026**
+**Last updated: September 26, 2026**
 
 PlumFM is a Last.fm client for iPhone. It has no servers, no accounts of its own, no analytics,
 no ads and no tracking. Your data lives in two places: your Last.fm account and your iPhone.
@@ -45,11 +45,13 @@ identifies the app as PlumFM, with its version number.
 ## Apple Music
 
 If you connect Apple Music, PlumFM reads your recently played songs, and checks your music
-library for when a song was last played, so you can pick songs to scrobble. Nothing is sent
-anywhere until you choose songs and tap to scrobble them. Those songs go only to your Last.fm
-account.
+library for when a song was last played, so you can pick songs to scrobble. Songs are sent to
+your Last.fm account only when you tap to scrobble them. PlumFM also looks up the artists, albums
+and tracks you open in the Apple Music catalog, under Apple's
+[privacy policy](https://www.apple.com/legal/privacy/).
 
-You can disconnect Apple Music in PlumFM's Profile, or turn off access in iOS Settings.
+You can disconnect Apple Music in PlumFM's Account. Catalog lookups continue while PlumFM has
+access to Apple Music; turn off access in iOS Settings to stop them.
 
 ## Stored on your iPhone
 
