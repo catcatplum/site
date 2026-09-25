@@ -2,9 +2,9 @@
   "items": [
     { "title": "More accurate Apple Music scrobbling", "status": "in-beta" },
     { "title": "Light, Dark and System appearance", "status": "in-beta" },
-    { "title": "Last.fm profile picture on the account button", "status": "planned" },
+    { "title": "Last.fm profile picture on the account button", "status": "in-beta" },
+    { "title": "Open in Apple Music", "status": "in-beta" },
     { "title": "Home Screen and Lock Screen widgets", "status": "planned" },
-    { "title": "Open in Apple Music or Spotify", "status": "planned" },
     { "title": "Translations", "status": "planned" },
     {
       "title": "Automatic Apple Music scrobbling",
