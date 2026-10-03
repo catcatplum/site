@@ -1,18 +1,10 @@
 {
   "items": [
-    { "title": "More accurate Apple Music scrobbling", "status": "in-beta" },
-    { "title": "Light, Dark and System appearance", "status": "in-beta" },
-    { "title": "Last.fm profile picture on the account button", "status": "in-beta" },
-    { "title": "Open in Apple Music", "status": "in-beta" },
-    { "title": "Home Screen and Lock Screen widgets", "status": "planned" },
+    { "title": "Home Screen widgets", "status": "in-beta" },
+    { "title": "Automatic Apple Music scrobbling", "status": "planned" },
+    { "title": "Background history sync", "status": "planned" },
     { "title": "Translations", "status": "planned" },
-    {
-      "title": "Automatic Apple Music scrobbling",
-      "status": "exploring",
-      "detail": "Depends on scrobble times being reliable first. A wrong scrobble is worse than a missing one."
-    },
     { "title": "Choose the starting tab", "status": "exploring" },
-    { "title": "Background history sync", "status": "exploring" },
     {
       "title": "Minutes listened and genre breakdowns",
       "status": "exploring",
